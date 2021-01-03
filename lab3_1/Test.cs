@@ -130,5 +130,20 @@ namespace lab3_1
             Assert.AreEqual(flag_1.ToString(), "FTTTTFTTTF");
             Assert.AreEqual(flag_2.ToString(), "TFFFFTFFFT");
         }
+
+        /* Test that Dispose method does clear object resources*/
+        [Test()]
+        public void TestDispose()
+        {
+            MultipleBinaryFlag flag = new MultipleBinaryFlag(test_length, false);
+
+            flag.SetFlag(3);
+            Assert.AreEqual(flag.ToString(), "FFFTFFFFFF");
+
+            flag.Dispose();
+
+            Assert.NotNull(flag);
+            Assert.AreNotEqual(flag.ToString(), "FFFTFFFFFF");
+        }
     }
 }
