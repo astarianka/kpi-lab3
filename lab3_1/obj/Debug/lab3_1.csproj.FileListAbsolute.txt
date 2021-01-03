@@ -1,0 +1,12 @@
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/lab3_1.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/lab3_1.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/IIG.BinaryFlag.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/nunit.framework.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/nunit.framework.xml
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/IIG.BinaryFlag.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/bin/Debug/IIG.BinaryFlag.xml
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/obj/Debug/lab3_1.csprojAssemblyReference.cache
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/obj/Debug/lab3_1.csproj.CoreCompileInputs.cache
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/obj/Debug/lab3_1.csproj.CopyComplete
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/obj/Debug/lab3_1.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab3/lab3_1/lab3_1/obj/Debug/lab3_1.pdb
